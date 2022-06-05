@@ -1,0 +1,42 @@
+.line{ 
+margin: -18px 20px;
+padding: 2px;
+background: grey;
+margin-top: 40px;
+
+}
+
+.line2{ 
+
+    margin: -18px 20px;
+    padding: 2px;
+    background: grey;
+    margin-top: -18px;
+    
+
+
+}
+
+h1{
+margin-left: 20px;
+font-size: 28px;
+}
+
+.direita{
+margin-left: 50px;
+margin-top: 04px;
+list-style-type: circle;
+}
+.direita2{
+    list-style-type: square;
+margin-top: 4px;
+margin-left: 90px;
+line-height: 22px;
+}
+
+ul{
+margin-top: -28px;
+
+
+}
+
