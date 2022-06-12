@@ -75,7 +75,10 @@ a:hover{
 
 body {
     
-    background: #1b1b1b;
+    background-image: url(https://cdn.shopify.com/s/files/1/0445/4980/0093/files/desk-1400x900_1920x1080.png?v=1639856549);
+     background-color: #161616;
+     background-repeat: repeat-x;
+   
 
 }
 
