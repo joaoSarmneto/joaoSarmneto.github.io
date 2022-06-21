@@ -98,3 +98,304 @@ body::-webkit-scrollbar-thumb {
     border-radius: 6px;
     border: 2px solid white;
 }
+
+
+
+
+@media only screen   and (max-width: 600px) {
+
+
+
+    .pre {
+
+        background-image: linear-gradient(black 20%, red 10%, black 30%);
+        padding: 10px;
+    }
+    
+    header {
+        background: #161616;
+        height: 23px;
+        padding: 20px;
+        justify-content: space-between;
+        display: flex;
+        margin-top: -10px;
+        position: sticky;
+        border-top: 2px;
+        top: 0px;
+    }
+    
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .cor1 {
+        margin: 0px 160px;
+        font-size: 1.2rem;
+        color: white;
+        text-shadow: 2px 2px 9px red;
+    }
+    
+    
+    
+    .cor1:hover {
+        text-shadow: 2px 2px 19px black;
+        transition: all 3.1s;
+        color: red;
+        text-shadow: 2px 2px 13px white;
+    
+    
+    }
+    
+    
+    ol {
+        list-style: none;
+        line-height: 24px;
+        margin: 8px 10px;
+    }
+    
+    
+    
+    
+    a {
+        text-decoration: none;
+        color: white;
+          transition: 2.0s;
+    }
+    
+    a:hover{
+    
+        color: aqua;
+      
+    
+    }
+    
+    .tabela {
+        background-color: black;
+        border: 2px solid red;
+        margin: 10px 30px;
+        margin-right: 350px;
+        border-radius: 10px;
+    }
+    
+    
+    
+    
+    body {
+        
+    
+         background-color:#161616;
+        
+       
+    
+    }
+    
+    
+
+
+}
+
+
+
+
+@media only screen   and (max-width: 900px) {
+
+
+
+    .pre {
+
+        background-image: linear-gradient(black 20%, red 10%, black 30%);
+        padding: 10px;
+    }
+    
+    header {
+        background: #161616;
+        height: 23px;
+        padding: 20px;
+        justify-content: space-between;
+        display: flex;
+        margin-top: -10px;
+        position: sticky;
+        border-top: 2px;
+        top: 0px;
+    }
+    
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .cor1 {
+        margin: 0px 160px;
+        font-size: 1.2rem;
+        color: white;
+        text-shadow: 2px 2px 9px red;
+    }
+    
+    
+    
+    .cor1:hover {
+        text-shadow: 2px 2px 19px black;
+        transition: all 3.1s;
+        color: red;
+        text-shadow: 2px 2px 13px white;
+    
+    
+    }
+    
+    
+    ol {
+        list-style: none;
+        line-height: 24px;
+        margin: 8px 10px;
+    }
+    
+    
+    
+    
+    a {
+        text-decoration: none;
+        color: white;
+          transition: 2.0s;
+    }
+    
+    a:hover{
+    
+        color: aqua;
+      
+    
+    }
+    
+    .tabela {
+        background-color: black;
+        border: 2px solid red;
+        margin: 10px 30px;
+        margin-right: 350px;
+        border-radius: 10px;
+    }
+    
+    
+    
+    
+    body {
+        
+    
+         background-color:#161616;
+        
+       
+    
+    }
+    
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen   and (max-width: 1360px) {
+
+
+
+    .pre {
+
+        background-image: linear-gradient(black 20%, red 10%, black 30%);
+        padding: 10px;
+    }
+    
+    header {
+        background: #161616;
+        height: 23px;
+        padding: 20px;
+        justify-content: space-between;
+        display: flex;
+        margin-top: -10px;
+        position: sticky;
+        border-top: 2px;
+        top: 0px;
+    }
+    
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .cor1 {
+        margin: 0px 160px;
+        font-size: 1.2rem;
+        color: white;
+        text-shadow: 2px 2px 9px red;
+    }
+    
+    
+    
+    .cor1:hover {
+        text-shadow: 2px 2px 19px black;
+        transition: all 3.1s;
+        color: red;
+        text-shadow: 2px 2px 13px white;
+    
+    
+    }
+    
+    
+    ol {
+        list-style: none;
+        line-height: 24px;
+        margin: 8px 10px;
+    }
+    
+    
+    
+    
+    a {
+        text-decoration: none;
+        color: white;
+          transition: 2.0s;
+    }
+    
+    a:hover{
+    
+        color: aqua;
+      
+    
+    }
+    
+    .tabela {
+        background-color: black;
+        border: 2px solid red;
+        margin: 10px 30px;
+        margin-right: 350px;
+        border-radius: 10px;
+    }
+    
+    
+    
+    
+    body {
+        
+    
+         background-color:#161616;
+        
+       
+    
+    }
+    
+    
+
+
+}
