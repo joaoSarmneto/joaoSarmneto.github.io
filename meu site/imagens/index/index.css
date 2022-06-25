@@ -1,0 +1,355 @@
+header {
+    background-color: #161b22;
+    position: sticky;
+    top: 0px;
+    padding-bottom: 9px;
+     
+}
+
+
+.void {
+    padding: 6px;
+    background-color: #4e4e4e;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    position: relative;
+    top: 7px;
+
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+
+    background-color: #0d1117;
+ 
+} 
+
+::-webkit-scrollbar {
+    width: 12px;               
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #1d1e22;        
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #30363d;   
+           
+   
+  }
+#title1 {
+    color: red;
+    font-style: oblique;
+    padding-top: 12px;
+    margin-left: 23px;
+    cursor: pointer;
+}
+
+#title2 {
+
+
+    color: white;
+    font-style: oblique;
+    margin-top: -27px;
+    margin-left: 60px;
+    cursor: pointer;
+}
+
+#title3 {
+
+
+    color: white;
+    font-style: oblique;
+    margin-top: -28px;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+#title4 {
+    color: red;
+    font-style: oblique;
+
+    cursor: pointer;
+
+
+}
+
+.reference {
+    text-decoration: none;
+    color: white;
+
+}
+
+
+
+.block {
+    text-align: center;
+    background-color: #010409;
+    color: white;
+    margin: 12px 0px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    padding: 20px;
+     position: relative;
+     top: 3px;
+}
+
+.texto {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-weight: 200;
+    font-size: 1.5rem;
+}
+
+b {
+
+    border-bottom: 1px solid blue;
+    text-shadow: 1px 2px 12px black;
+}
+
+.main {
+
+    gap: 0.0rem;
+    padding: 0 2rem;
+    color: white;
+}
+
+.text {
+
+    font-size: 18px;
+}
+
+
+.quadro {
+
+    border-left: 1px groove white;
+    width: 1040px;
+    padding: 2px 20px;
+    position: relative;
+    top: 0px;
+    left: 60px;
+
+}
+
+
+
+
+.escrever {
+    font-size: 22px;
+    line-height: 29px;
+    font-family: monospace;
+
+}
+
+
+
+.linha {
+
+    border-bottom: 1px solid blue;
+}
+
+
+
+
+
+
+
+.line {
+    margin: 2px;
+    padding: 2px;
+}
+
+.linha {
+    list-style: none;
+    margin: 10px;
+    display: inline;
+}
+
+.linha .tags {
+    padding: 5px 10px;
+    margin: 0;
+    border: 0px solid #f00;
+    background: grey;
+    text-decoration: none;
+    color: #FFF;
+    border-radius: 5px;
+}
+
+.linha .tags:hover {
+    background: white;
+    color: #000;
+    border-color: #000;
+
+
+}
+
+.imagem1 {
+    position: relative;
+    top: -40px;
+    left: 60px;
+}
+
+.imagem1:hover{
+  background-color: #0d1117;
+ box-shadow: 2px 4px 32px #6e7681;
+ border-radius: 400px;
+}
+.bottom1 {
+    border-bottom: 1px groove orange;
+    width: 58px;
+    color: orange;
+    text-shadow: 2px 3px 23px orange;
+}
+
+.bottom2 {
+    border-bottom: 1px groove blue;
+    width: 43px;
+    text-shadow: 2px 3px 23px blue;
+    color: blue;
+}
+
+.bottom3 {
+    border-bottom: 1px groove #6e7681;
+    width: 43px;
+    color: #6e7681;
+    text-shadow: 2px 3px 23px #6e7681;
+}
+
+.quadro2 {
+    margin-left: 100px;
+    color: white;
+}
+
+.tag-artigo {
+    margin: 0px 20px;
+    list-style: circle;
+}
+
+.article {
+    font-size: 16px;
+    font-family: monospace;
+    line-height: 25px;
+}
+
+.final{
+margin-left: -100px;
+color: #8b949e;
+font-size: 12px;
+pointer-events: none;
+}
+.final2{
+color: #58a6ff;
+margin: -20px 222px;
+font-size: 12px;
+display: inline-flex ;
+cursor: pointer;
+list-style: none;
+}
+
+.final3{
+     color: #58a6ff;
+    margin-left: 12px;
+    text-decoration: none;
+     
+}
+.final3:hover{
+  
+    
+    border-bottom: 1px solid #58a6ff;
+}
+
+.borda{
+
+border-top: 1px solid #30363d;
+margin:0px  100px ;
+
+}
+
+@media(max-width:1200px) {
+
+    header {
+        position: relative;
+        pointer-events: none;
+    }
+
+    .block {
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding: 15px;
+        margin: 12px 0px;
+        border-top: 1px solid red;
+        border-bottom: 1px solid red;
+
+    }
+
+    .texto {
+
+        font-family: Arial, Helvetica, sans-serif;
+
+        font-weight: 200;
+        font-size: 1.0rem;
+    }
+
+    .main {
+
+        gap: 0.1rem;
+        margin-right: 1000px;
+
+    }
+
+
+
+    .quadro {
+        width: 0px;
+        border-left: 1px groove white;
+        margin-left: -42px;
+
+    }
+
+    .text {
+
+        font-size: 12px;
+    }
+
+    .escrever {
+        font-size: 14px;
+        line-height: 22px;
+        font-family: monospace;
+        width: 410px;
+    }
+
+    h3 {
+        border-bottom: 1px solid red;
+        width: 200px;
+
+    }
+
+    .bottom1 {
+        border-bottom: 1px groove orange;
+        width: 38px;
+
+    }
+
+    .bottom2 {
+        border-bottom: 1px groove blue;
+        width: 30px;
+
+    }
+
+    .bottom3 {
+        border-bottom: 1px groove #6e7681;
+        width: 30px;
+
+    }
+
+    aside {
+        display: none;
+
+    }
+}
