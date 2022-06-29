@@ -318,6 +318,19 @@ b {
 }
 
 
+.bottom1:hover{
+
+    transform: scale(1.2 , 1.2);
+}
+.bottom2:hover{
+
+    transform: scale(1.2 , 1.2);
+}
+.bottom3:hover{
+
+    transform: scale(1.2 , 1.2);
+}
+
 .menu{
     width: 130px;
   position: relative;
