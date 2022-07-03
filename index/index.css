@@ -319,6 +319,11 @@ b {
 }
 
 
+.borda {
+    border-top: 1px solid #30363d;
+    margin: 0px 100px;
+}
+
 .bottom1:hover{
 
     transform: scale(1.2 , 1.2);
